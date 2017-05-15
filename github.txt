@@ -1,0 +1,7 @@
+
+For hosting web app from Infy Network
+>> GO TO https://github.com
+>> login via ANY email address and create new repo for your account
+>> select check box while creating repo - "Initialize this repository with a README"
+>> inside new repo, go to "Create new file", create file with name "index.htm", add HTML content and save.
+>> Follow step to use "Deployment options" from 1st document I have shared in github, named "0_Implement..." 
